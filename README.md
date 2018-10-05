@@ -3,7 +3,7 @@ This is an unofficial implementation of the paper: * Li Liu ; Yunli Long ; Paul 
 [source](https://ieeexplore.ieee.org/document/6819021)
 
 Sample output:
-![alt text]()
+![alt text](https://github.com/bhavikngala/BRINT-features/blob/master/results/as_brint_s_r12_n32.jpg)
 
 Requirements:
 1. C++
